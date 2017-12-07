@@ -21,3 +21,6 @@ function deleteFromObjectByKey(object, key) {
   delete objectClone.key
   return objectClone
 }
+function deleteFromObjectByKey(object, key) {
+  
+}
