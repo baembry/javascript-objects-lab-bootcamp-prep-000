@@ -27,8 +27,7 @@ function deleteFromObjectByKey(object, key) {
   return clone
 } 
 
-/*  var objectClone = object.key
-  return objectClone */
+
 
 
   
